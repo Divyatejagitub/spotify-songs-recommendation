@@ -1,2 +1,2 @@
 # spotify-songs-recommendation
-a comprehensive analysis on spotify songs to reccommend a good review songs for  users
+A comprehensive analysis on spotify songs to recommend best music and songs to the end users.
